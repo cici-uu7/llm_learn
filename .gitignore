@@ -1,0 +1,8 @@
+.idea/
+conda-envs/
+hf_cache/
+hf-cahe/
+.DS_Store
+__pycache__/
+*.pyc
+pytorch_model.bin
